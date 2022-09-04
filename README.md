@@ -1,6 +1,6 @@
 # Quiz - короткий опрос, в конце которого показывается результат с использованием React.
 
-## https://preeminent-sprinkles-462778.netlify.app/ (посмотреть как работает можно тут)
+## https://quiz-z-1.netlify.app/ (посмотреть как работает можно тут)
 
 
 ![image](https://user-images.githubusercontent.com/87518745/187699408-e2a9c0bb-513d-4838-bf8c-5e4b67eeef68.png)
